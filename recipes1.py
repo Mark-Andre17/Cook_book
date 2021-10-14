@@ -22,7 +22,7 @@ def get_cook_book_with_quantity():
     return cook_book
 
 
-# pprint(get_cook_book_with_quantity())
+
 
 
 def get_shop_list_by_dishes(dishes, person_count):
@@ -38,4 +38,4 @@ def get_shop_list_by_dishes(dishes, person_count):
     return shop_list
 
 
-# pprint(get_shop_list_by_dishes(['Запеченный картофель', 'Омлет'], 2))
+
